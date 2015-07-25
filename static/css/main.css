@@ -1,0 +1,21 @@
+html {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+.ugly {
+    font-family: 'PixelMincho', serif;
+    font-size: 24px;
+}
+.hide-me {
+    height: 1em;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.first-row {
+    padding-bottom: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-bottom: 1px solid #AAA;
+}
+.tiny {
+    font-size: 16px;
+}
